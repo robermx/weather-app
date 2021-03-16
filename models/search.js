@@ -5,7 +5,7 @@ class Search {
   constructor() {
     this.history = [];
     this.dbPath = './db/database.json';
-    // TODO: Leer db si existe
+    // Leer db si existe
     this.readDB();
   }
 
