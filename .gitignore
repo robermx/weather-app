@@ -1,0 +1,5 @@
+# Dependency directories
+node_modules/
+db/database.json
+.DS_Store
+.env
